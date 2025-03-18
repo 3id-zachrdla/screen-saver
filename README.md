@@ -16,7 +16,7 @@ place to /opt/screensaver your images
 
 **Set owner for folder /opt/screensaver for non root user**
 ```bash
-sudo chown dietpi:dietpi /opt/screensaver
+sudo chown -R dietpi:dietpi /opt/screensaver
 ```
 
 
